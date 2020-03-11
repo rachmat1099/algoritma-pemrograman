@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1578317070 source:d:\backupto drive\amikom yogyakarta\alpro\final project\final project\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+	<stdlib.h>
+
